@@ -81,7 +81,7 @@ git diff
 ---
 
 ###  `git branch <name>`
-Lists branches.
+Creates a branch.
 
 ```bash
 git branch branch1
