@@ -44,7 +44,15 @@ git add .
 ```
 
 ---
+---
 
+###  `git rm --cached <file>`
+Stages changes (files) to be removed.
+
+```bash
+git rm --cached file.txt
+
+```
 ###  `git commit -m "message"`
 Saves the staged changes to the repository with a message.
 
