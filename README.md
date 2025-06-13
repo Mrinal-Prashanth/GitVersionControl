@@ -80,14 +80,21 @@ git diff
 
 ---
 
+###  `git branch <name>`
+Lists branches.
+
+```bash
+git branch branch1
+```
+
+---
 ###  `git checkout`
 Switches branches or restores files.
 
 ```bash
-git checkout -b new-feature   # Create and switch to new branch
+git checkout branch1   # Create and switch to new branch
 git checkout main             # Switch back to main
 ```
-
 ---
 
 ###  `git branch`
