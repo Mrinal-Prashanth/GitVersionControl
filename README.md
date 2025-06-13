@@ -110,7 +110,7 @@ git branch
 Merges one branch into another.
 
 ```bash
-git merge new-feature
+git merge branch1
 ```
 
 ---
