@@ -119,7 +119,7 @@ git merge branch1
 Clones a remote repository to your local machine.
 
 ```bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/FIREBOYY11/GitVersionControl
 ```
 
 ---
