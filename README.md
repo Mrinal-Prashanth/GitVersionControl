@@ -142,6 +142,24 @@ git push origin main
 
 ---
 
+### Create a new repository via cmd
+
+```bash
+git init
+git add README.md
+git commit -m "First change"
+git remote add origin https://github.com/FIREBOYY11/GitVersionControl.git
+git push -u origin main
+```
+
+### Upload an exisisting repository via cmd
+
+```bash
+git remote add origin https://github.com/FIREBOYY11/GitVersionControl.git
+git push -u origin main
+```
+
+---
 ##  Key Concepts
 
 - **Repository**: Where your project's history is stored.
