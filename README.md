@@ -49,7 +49,7 @@ git add .
 Saves the staged changes to the repository with a message.
 
 ```bash
-git commit -m "Initial commit"
+git commit -m "First change"
 ```
 
 ---
