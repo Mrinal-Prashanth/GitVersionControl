@@ -38,7 +38,7 @@ git status
 Stages changes (files) to be committed.
 
 ```bash
-git add index.html
+git add file.txt
 # or to add all files:
 git add .
 ```
