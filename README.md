@@ -35,11 +35,11 @@ git status
 ---
 
 ###  `git add <file>`
-Stages changes to be committed.
+Stages changes (files) to be committed.
 
 ```bash
 git add index.html
-# or to stage all changes:
+# or to add all files:
 git add .
 ```
 
